@@ -1,6 +1,6 @@
 title: "Zhaomeng Zhang (Oliver)"
 author: "Zhaomeng Zhang"
-description: "University of Virginia"
+description: "Created by Zhaomeng Zhang in August 2024"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -16,8 +16,11 @@ minimal: true              # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html"}
-  - {file: "README.md"}
+  - {file: "index.html", title: "Home"}
+  - {file: "README.md", title: "Research"}
+  - {title: "Publication"}
+  - {title: "Hobby"}
+  - {title: "CV"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:sus7sv@virginia.edu"}

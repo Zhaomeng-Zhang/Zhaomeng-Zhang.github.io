@@ -13,3 +13,9 @@ To accurately complete these steps of tooth preparation, dentists must possess h
 
 ![dental2](https://github.com/user-attachments/assets/a1e9384c-d29c-40d7-bf15-f8530ea4f12c)
 
+**2. Realtime Robust Shape Estimation of Deformable Linear Object**
+
+Realtime shape estimation of continuum objects and manipulators is essential for developing accurate planning and control paradigms. The existing methods that create dense point clouds from camera images, and/or use distinguishable markers on a deformable body have limitations in realtime tracking of large continuum objects/manipulators. The physical occlusion of markers can often compromise accurate shape estimation. We propose a robust method to estimate the shape of linear deformable objects in realtime using scattered and unordered key points. By utilizing a robust probability-based labeling algorithm, our approach identifies the true order of the detected key points and then reconstructs the shape using piecewise spline interpolation. The approach only relies on knowing the number of the key points and the interval between two neighboring points. We demonstrate the robustness of the method when key points are partially occluded. The proposed method is also integrated into a simulation in Unity for tracking the shape of a cable with a length of 1m and a radius of 5mm. The simulation results show that our proposed approach achieves an average length error of 1.07% over the continuum’s centerline and an average cross-section error of 2.11mm. The real-world experiments of tracking and estimating a heavyload cable prove that the proposed approach is robust under occlusion and complex entanglement scenarios. [View Details](https://arxiv.org/abs/2403.16146#)
+
+![Cable1](https://github.com/user-attachments/assets/7872c111-59b4-4207-9f69-55daf84365c1)
+

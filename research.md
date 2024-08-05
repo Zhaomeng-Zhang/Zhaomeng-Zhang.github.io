@@ -9,7 +9,7 @@ Tooth preparation is a surgical procedure in which dentists utilize a drilling t
 
 To accurately complete these steps of tooth preparation, dentists must possess highly delicate surgical skills and engage in long-term practice.The objective of this project is to develop a training system for tooth drilling while providing real-time force feedback by using haptic device and visualizing digital tooth on AR Headset HoloLens2. This implementation aims to make surgeons familiarize the tooth preparation steps for the installation of a custom-made dental crown.
 
-![dental1](https://github.com/user-attachments/assets/03eb89ac-5d70-4267-a76e-7160167e01c7)
+<img src="https://github.com/user-attachments/assets/03eb89ac-5d70-4267-a76e-7160167e01c7" alt="Alt text" width="70%" height="100%"/>
 
 ![dental2](https://github.com/user-attachments/assets/a1e9384c-d29c-40d7-bf15-f8530ea4f12c)
 

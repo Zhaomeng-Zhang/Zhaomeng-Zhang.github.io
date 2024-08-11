@@ -20,12 +20,11 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "research.md", title: "Research"}
   - {file: "publication.md", title: "Publication"}
   - {file: "hobby.md", title: "Hobby"}
-  - {file: "cv.html", title: "CV"}
 
-external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:sus7sv@virginia.edu"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+#external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
+#  - {title: Mail, icon: envelope, url: "mailto:sus7sv@virginia.edu"}
+#  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
+#  - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/

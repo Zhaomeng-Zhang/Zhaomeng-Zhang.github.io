@@ -18,10 +18,16 @@ layout: page
 I enjoy reading books because it feels like I'm conversing with different famous authors and gaining their wisdom.
 
 Here are my favorite books:
-
 -  《One Hundred Years of Solitude》 by Gabriel García Márquez
 -  《To Live》 by Yu Hua
+-  《Ordinary World》 by Lu Yao
 -  《Sapiens: A Brief History of Humankind》 by Yuval Noah Harari
 -  《Value: My Thoughts on Investing》 by Lei Zhang
+-  《The Crowd: A Study of the Popular Mind》 by Gustave Le Bon
+-  《Zen Mind》 by Shunryū Suzuki
+-  《What Life Could Mean to You》 by Alfred Adler
+-  《Zero to One: Notes on Startups》 by Blake Masters and Peter Thiel
 
 **3. Traveling**  
+
+Hope I will have time and money for travel ^_^

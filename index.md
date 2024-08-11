@@ -11,7 +11,6 @@ I'm a first-year Ph.D. student majoring in Computer Engineering at the [Universi
 
 [ZhaomengCV.pdf](https://github.com/user-attachments/files/16571657/ZhaomengCV.pdf)
 
-<br>
 **Contact Information**
 
 Email: sus7sv@virginia.edu

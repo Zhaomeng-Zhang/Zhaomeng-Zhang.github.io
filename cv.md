@@ -7,5 +7,5 @@ layout: page
 
 You can view the project documentation [here](https://github.com/Zhaomeng-Zhang/Zhaomeng-Zhang.github.io/blob/master/ZhaomengCV.pdf)
 
-<iframe src="https://github.com/yourusername/yourrepositoryname/raw/main/pdfs/example.pdf" width="100%" height="600px">
+<iframe src="https://github.com/Zhaomeng-Zhang/Zhaomeng-Zhang.github.io/blob/master/ZhaomengCV.pdf" width="100%" height="600px">
 </iframe>

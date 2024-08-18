@@ -23,6 +23,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
 - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/zhaomeng-zhang-24bba3258/"}
+- {title: Google Scholar, icon: google scholar, url: "https://scholar.google.com/citations?user=hbcTgc0AAAAJ&hl=en&oi=ao"}
 #  - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
